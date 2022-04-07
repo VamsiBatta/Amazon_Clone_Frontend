@@ -1,0 +1,32 @@
+.navbar_component{
+    width:100vw;
+    height: 60px;
+    background-color: #131a22;
+    display: flex;
+}
+.navbar_logo{
+
+	background: url('https://ik.imagekit.io/AmazonImages/amazon-image/sprite_350x_IZeJBAAVGb.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649327503822') no-repeat -10px -51px;
+	background-size: 350px 450px;
+	width: 120px;
+	height: 29px;
+    margin-top: 18px;
+    margin-left: 15px;
+}
+.navbar_location{
+    color: white;
+    font-weight: bold;
+}
+.navbar_locator{
+   display: flex;
+   margin-top: 19px;
+   margin-left: 15px; 
+}
+.navbar_locatorImage{
+	background: url('https://ik.imagekit.io/AmazonImages/amazon-image/sprite_350x_IZeJBAAVGb.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649327503822') no-repeat -71px -306px;
+	background-size: 350px 450px;
+	width: 17px;
+	height: 20px;
+    margin-right: 7px;
+    margin-left: -15px;
+}
